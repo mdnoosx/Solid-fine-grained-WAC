@@ -1,0 +1,517 @@
+@prefix : <#>.
+@prefix o: <http://www.w3.org/ns/oa#>.
+@prefix ex: <http://example.com/>.
+@prefix XML: <http://www.w3.org/2001/XMLSchema#>.
+@prefix terms: <http://purl.org/dc/terms/>.
+@prefix c: <happywolf259/card#>.
+@prefix rd: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix c0: <organicwolf165/card#>.
+@prefix c1: <tinysnake811/card#>.
+@prefix c2: <whitefish334/card#>.
+@prefix c3: <biglion468/card#>.
+@prefix c4: <blueduck928/card#>.
+@prefix c5: <greenrabbit528/card#>.
+@prefix c6: <redmouse560/card#>.
+@prefix c7: <lazyelephant623/card#>.
+@prefix c8: <organicbutterfly303/card#>.
+
+:annotation0
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "6"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c:me;
+    rd:label "Martin Mora created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.LuukasRajala.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation1
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "3"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c0:me;
+    rd:label "Rosie Collins created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.MikeJimenez.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation10
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "3"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c1:me;
+    rd:label "Eduardo Perry created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.MagdalenaFlores.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation11
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "2"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c0:me;
+    rd:label "Rosie Collins created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.LuukasRajala.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation12
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "6"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c2:me;
+    rd:label "Leo Lavigne created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.AlexandraWest.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation13
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "3"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c3:me;
+    rd:label "Susan Williams created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.MagdalenaFlores.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation14
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "3"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c4:me;
+    rd:label "Timothe Marie created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.MagdalenaFlores.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation15
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "9"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c4:me;
+    rd:label "Timothe Marie created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.AmandaSakala.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation16
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "10"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c5:me;
+    rd:label "Ilknur Bond created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.DebbieHunt.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation17
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "10"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c2:me;
+    rd:label "Leo Lavigne created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.LuukasRajala.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation18
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "5"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c3:me;
+    rd:label "Susan Williams created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.AdelinaBeijert.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation19
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "2"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c4:me;
+    rd:label "Timothe Marie created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.InesMartin.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation2
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "8"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c3:me;
+    rd:label "Susan Williams created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.MagdalenaFlores.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation20
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "3"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c6:me;
+    rd:label "Jacob Gomez created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.InesMartin.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation21
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "4"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c5:me;
+    rd:label "Ilknur Bond created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.EmilioVega.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation22
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "2"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c2:me;
+    rd:label "Leo Lavigne created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.InesMartin.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation23
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "6"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c2:me;
+    rd:label "Leo Lavigne created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.AdelinaBeijert.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation24
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "9"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c7:me;
+    rd:label "Viljami Lahti created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.AdelinaBeijert.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation25
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "1"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c7:me;
+    rd:label "Viljami Lahti created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.MagdalenaFlores.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation26
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "3"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c8:me;
+    rd:label "Susan Nguyen created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.AmandaSakala.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation27
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "2"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c8:me;
+    rd:label "Susan Nguyen created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.InesMartin.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation28
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "2"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c7:me;
+    rd:label "Viljami Lahti created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.InesMartin.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation29
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "10"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c6:me;
+    rd:label "Jacob Gomez created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.InesMartin.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation3
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "1"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c3:me;
+    rd:label "Susan Williams created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.AlexandraWest.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation30
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "10"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c1:me;
+    rd:label "Eduardo Perry created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.AmandaSakala.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation31
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "5"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c0:me;
+    rd:label "Rosie Collins created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.EmilioVega.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation32
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "4"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c7:me;
+    rd:label "Viljami Lahti created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.InesMartin.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation33
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "4"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c4:me;
+    rd:label "Timothe Marie created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.MagdalenaFlores.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation34
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "1"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c1:me;
+    rd:label "Eduardo Perry created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.AmandaSakala.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation35
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "5"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c8:me;
+    rd:label "Susan Nguyen created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.MagdalenaFlores.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation36
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "2"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c5:me;
+    rd:label "Ilknur Bond created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.MikeJimenez.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation37
+    a o:Annotation;
+    ex:isHidden "true";
+    ex:priority "4"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c6:me;
+    rd:label "Jacob Gomez created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.AdelinaBeijert.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation38
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "2"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c8:me;
+    rd:label "Susan Nguyen created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.EmilioVega.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation39
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "5"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c7:me;
+    rd:label "Viljami Lahti created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.AlexandraWest.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation4
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "4"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c4:me;
+    rd:label "Timothe Marie created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.LuukasRajala.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation40
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "2"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c6:me;
+    rd:label "Jacob Gomez created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.AdelinaBeijert.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation41
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "4"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c0:me;
+    rd:label "Rosie Collins created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.EmilioVega.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation42
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "9"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c:me;
+    rd:label "Laura Poulsen created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.EmilioVega.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation43
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "5"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c5:me;
+    rd:label "Ilknur Bond created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.DebbieHunt.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation44
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "2"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c2:me;
+    rd:label "Leo Lavigne created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.EmilioVega.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation45
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "6"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c0:me;
+    rd:label "Rosie Collins created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.LuukasRajala.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation46
+    a o:Annotation;
+    ex:isHidden "true";
+    ex:priority "9"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c4:me;
+    rd:label "Timothe Marie created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.AdelinaBeijert.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation47
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "9"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c5:me;
+    rd:label "Ilknur Bond created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.MaximiliaanVerwey.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation48
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "5"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c1:me;
+    rd:label "Eduardo Perry created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.AmandaSakala.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation49
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "4"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c4:me;
+    rd:label "Timothe Marie created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.MagdalenaFlores.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation5
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "4"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c5:me;
+    rd:label "Ilknur Bond created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.EmilioVega.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation6
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "6"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c4:me;
+    rd:label "Timothe Marie created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.MikeJimenez.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation7
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "6"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c3:me;
+    rd:label "Susan Williams created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.EmilioVega.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation8
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "8"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c7:me;
+    rd:label "Viljami Lahti created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.InesMartin.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation9
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "8"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:45:39 GMT";
+    terms:creator c6:me;
+    rd:label "Jacob Gomez created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.InesMartin.com/photo.png>;
+    o:motivatedBy o:commenting.

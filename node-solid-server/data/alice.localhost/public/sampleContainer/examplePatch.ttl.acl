@@ -1,0 +1,36 @@
+@prefix : <#> .
+@prefix n0: <http://www.w3.org/ns/auth/acl#> .
+@prefix c: </profile/card#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix test: <https://raw.githubusercontent.com/mdnoosx/refinedACL/main/refinedacl#> .
+
+:ControlReadWrite
+    a n0:Authorization;
+    n0:accessTo <examplePatch.ttl>;
+    n0:agent c:me;
+    n0:mode n0:Control, n0:Read, n0:Write.
+
+:ReadPublic
+    a n0:Authorization;
+    n0:accessTo <examplePatch.ttl>;
+    n0:agentClass foaf:Agent;
+ #  n0:mode n0:Read
+    .
+
+:ReadTest a n0:Authorization;
+  # test:stopInheritance <examplePatch.ttl>;
+    test:appliesTo <examplePatch.ttl>;
+    n0:origin <https://originrefined.local>;
+    n0:mode n0:Read;
+    n0:agentClass foaf:Agent;
+    test:hasAccessQuery """
+    PREFIX rdfs:	<http://www.w3.org/2000/01/rdf-schema#>
+    PREFIX rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    PREFIX dbp:	<http://dbpedia.org/property/>
+    CONSTRUCT { ?title rdf:type	schema:Book ;
+    rdfs:label ?label ;
+    dbp:precededBy ?p . }
+    WHERE { ?title rdf:type	schema:Book ;
+    rdfs:label ?label ;
+    dbp:precededBy ?p . }
+    """.

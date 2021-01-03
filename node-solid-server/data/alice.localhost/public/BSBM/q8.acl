@@ -1,0 +1,47 @@
+# ACL resource for the public folder
+@prefix acl: <http://www.w3.org/ns/auth/acl#>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix test: <https://raw.githubusercontent.com/mdnoosx/refinedACL/main/refinedacl#>.
+
+# The owner has all permissions
+<#owner>
+    a acl:Authorization;
+    acl:agent <https://alice.localhost:8443/profile/card#me>;
+    acl:accessTo <./>;
+    acl:default <./>;
+    acl:mode acl:Read, acl:Write, acl:Control.
+
+
+:refQ8 a acl:Authorization;
+    test:appliesTo <./>;
+    acl:mode acl:Read;
+    #acl:origin <https://originrefined.local>;
+    test:inherit <./>;
+    acl:agentClass foaf:Agent;
+ #   acl:agent <https://bob.localhost:8443/profile/card#me>;
+    test:hasAccessQuery """
+PREFIX bsbm: <http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX rev: <http://purl.org/stuff/rev#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX ex: <http://example.com/>
+
+CONSTRUCT{ ?title ex:review  ?text .
+        ?reviewDate ex:by ?reviewer .
+        ?reviewerName ex:made ?rating1, ?rating2, ?rating3, ?rating4 .}
+WHERE {
+	?review bsbm:reviewFor ?ProductXYZ .
+	?review dc:title ?title .
+	?review rev:text ?text .
+	FILTER langMatches( lang(?text), "EN" )
+	?review bsbm:reviewDate ?reviewDate .
+	?review rev:reviewer ?reviewer .
+	?reviewer foaf:name ?reviewerName .
+	OPTIONAL { ?review bsbm:rating1 ?rating1 . }
+	OPTIONAL { ?review bsbm:rating2 ?rating2 . }
+	OPTIONAL { ?review bsbm:rating3 ?rating3 . }
+	OPTIONAL { ?review bsbm:rating4 ?rating4 . }
+}
+ORDER BY DESC(?reviewDate)
+LIMIT 20
+""".

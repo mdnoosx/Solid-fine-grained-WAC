@@ -1,0 +1,2201 @@
+{
+  "acInHandler": 47.34310722351074,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    177.45902395248413,
+    183.59839296340942,
+    47.84058713912964
+  ],
+  "parsingACLs": 159.57688117027283,
+  "findingFilters": 22.563481092453003
+}
+ ;{
+  "acInHandler": 47.22442293167114,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    226.74590396881104,
+    102.51559495925903,
+    48.1156370639801
+  ],
+  "parsingACLs": 94.56643104553223,
+  "findingFilters": 4.047334909439087
+}
+ ;{
+  "acInHandler": 43.59675908088684,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    68.54402685165405,
+    85.95521712303162,
+    44.249335050582886
+  ],
+  "parsingACLs": 74.30271506309509,
+  "findingFilters": 10.891633987426758
+}
+ ;{
+  "acInHandler": 50.15609693527222,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    121.8423171043396,
+    132.2272789478302,
+    51.68003010749817
+  ],
+  "parsingACLs": 114.26958799362183,
+  "findingFilters": 16.8035991191864
+}
+ ;{
+  "acInHandler": 45.83117318153381,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    162.75467705726624,
+    175.5855689048767,
+    46.526021003723145
+  ],
+  "parsingACLs": 155.70031809806824,
+  "findingFilters": 18.422824144363403
+}
+ ;{
+  "acInHandler": 49.039527893066406,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    198.27361011505127,
+    44.22585391998291,
+    50.08656096458435
+  ],
+  "parsingACLs": 34.727256059646606,
+  "findingFilters": 8.922332048416138
+}
+ ;{
+  "acInHandler": 41.48860287666321,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    82.4117329120636,
+    105.02488899230957,
+    41.99626803398132
+  ],
+  "parsingACLs": 93.5661690235138,
+  "findingFilters": 10.600751876831055
+}
+ ;{
+  "acInHandler": 50.2893180847168,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    128.57824397087097,
+    138.60400485992432,
+    50.90420603752136
+  ],
+  "parsingACLs": 122.6633689403534,
+  "findingFilters": 14.850687026977539
+}
+ ;{
+  "acInHandler": 46.61059284210205,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    175.7102189064026,
+    186.5723111629486,
+    47.25883102416992
+  ],
+  "parsingACLs": 162.6298680305481,
+  "findingFilters": 22.474129915237427
+}
+ ;{
+  "acInHandler": 49.04459095001221,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    209.93577885627747,
+    43.95201897621155,
+    49.590835094451904
+  ],
+  "parsingACLs": 37.30018186569214,
+  "findingFilters": 6.12427020072937
+}
+ ;{
+  "acInHandler": 43.88238286972046,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    83.8094129562378,
+    92.58859300613403,
+    44.5526978969574
+  ],
+  "parsingACLs": 80.5032320022583,
+  "findingFilters": 11.092065811157227
+}
+ ;{
+  "acInHandler": 46.72099804878235,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    127.481290102005,
+    139.56608200073242,
+    47.388455867767334
+  ],
+  "parsingACLs": 122.02392387390137,
+  "findingFilters": 16.267724990844727
+}
+ ;{
+  "acInHandler": 44.700299978256226,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    175.0155909061432,
+    186.46023106575012,
+    45.397493839263916
+  ],
+  "parsingACLs": 161.30295610427856,
+  "findingFilters": 23.73772692680359
+}
+ ;{
+  "acInHandler": 49.52245593070984,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    197.63808608055115,
+    48.91733002662659,
+    50.56298494338989
+  ],
+  "parsingACLs": 39.214712142944336,
+  "findingFilters": 9.10365605354309
+}
+ ;{
+  "acInHandler": 44.22285509109497,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    74.11305117607117,
+    98.37474584579468,
+    44.92438316345215
+  ],
+  "parsingACLs": 86.15256094932556,
+  "findingFilters": 11.322703123092651
+}
+ ;{
+  "acInHandler": 51.760103940963745,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    128.84481692314148,
+    135.67048811912537,
+    52.51971793174744
+  ],
+  "parsingACLs": 116.4402871131897,
+  "findingFilters": 17.193188905715942
+}
+ ;{
+  "acInHandler": 45.36833882331848,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    180.73217606544495,
+    186.70649003982544,
+    45.95249795913696
+  ],
+  "parsingACLs": 166.563490152359,
+  "findingFilters": 18.652507066726685
+}
+ ;{
+  "acInHandler": 57.66145586967468,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    187.16084790229797,
+    47.520687103271484,
+    58.44695997238159
+  ],
+  "parsingACLs": 39.96319890022278,
+  "findingFilters": 6.94356107711792
+}
+ ;{
+  "acInHandler": 40.33335089683533,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    81.09192895889282,
+    92.97540998458862,
+    40.92018103599548
+  ],
+  "parsingACLs": 81.52704620361328,
+  "findingFilters": 10.60917592048645
+}
+ ;{
+  "acInHandler": 51.52770209312439,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    129.56629610061646,
+    135.04239296913147,
+    52.00029397010803
+  ],
+  "parsingACLs": 117.15705108642578,
+  "findingFilters": 16.78704285621643
+}
+ ;{
+  "acInHandler": 88.31879901885986,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    177.51184582710266,
+    186.06801414489746,
+    88.88469099998474
+  ],
+  "parsingACLs": 163.48666501045227,
+  "findingFilters": 21.045335054397583
+}
+ ;{
+  "acInHandler": 53.672755002975464,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    27.48104190826416,
+    69.55316114425659,
+    54.419291973114014
+  ],
+  "parsingACLs": 61.50199890136719,
+  "findingFilters": 7.361277103424072
+}
+ ;{
+  "acInHandler": 39.53204011917114,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    96.41447186470032,
+    98.75997114181519,
+    40.15953183174133
+  ],
+  "parsingACLs": 86.17446494102478,
+  "findingFilters": 11.727436065673828
+}
+ ;{
+  "acInHandler": 45.55957317352295,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    140.3200671672821,
+    154.6041820049286,
+    46.03377985954285
+  ],
+  "parsingACLs": 136.7663688659668,
+  "findingFilters": 16.421710968017578
+}
+ ;{
+  "acInHandler": 47.58701777458191,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    187.17949104309082,
+    178.57001090049744,
+    48.57405495643616
+  ],
+  "parsingACLs": 173.12404704093933,
+  "findingFilters": 3.6269149780273438
+}
+ ;{
+  "acInHandler": 46.5028760433197,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    49.80647110939026,
+    75.78823184967041,
+    47.139103174209595
+  ],
+  "parsingACLs": 65.54680800437927,
+  "findingFilters": 9.556615114212036
+}
+ ;{
+  "acInHandler": 46.24521803855896,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    104.2360680103302,
+    114.04013204574585,
+    46.71958804130554
+  ],
+  "parsingACLs": 99.62936210632324,
+  "findingFilters": 13.333119869232178
+}
+ ;{
+  "acInHandler": 47.21006107330322,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    147.89599680900574,
+    174.08918404579163,
+    47.84671592712402
+  ],
+  "parsingACLs": 152.07252097129822,
+  "findingFilters": 20.645483016967773
+}
+ ;{
+  "acInHandler": 45.796558141708374,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    227.08507990837097,
+    42.11936902999878,
+    46.409106969833374
+  ],
+  "parsingACLs": 34.55684185028076,
+  "findingFilters": 6.822154998779297
+}
+ ;{
+  "acInHandler": 43.51622486114502,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    64.23647904396057,
+    92.77070093154907,
+    44.028183937072754
+  ],
+  "parsingACLs": 81.17534899711609,
+  "findingFilters": 10.848632097244263
+}
+ ;{
+  "acInHandler": 47.50570583343506,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    125.24730706214905,
+    127.33584189414978,
+    48.10810112953186
+  ],
+  "parsingACLs": 110.5760588645935,
+  "findingFilters": 15.706378936767578
+}
+ ;{
+  "acInHandler": 43.203619956970215,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    171.9203281402588,
+    179.70250391960144,
+    43.760754108428955
+  ],
+  "parsingACLs": 157.04223680496216,
+  "findingFilters": 21.083577156066895
+}
+ ;{
+  "acInHandler": 51.21811604499817,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    221.0406060218811,
+    45.21079778671265,
+    52.062947034835815
+  ],
+  "parsingACLs": 34.63169002532959,
+  "findingFilters": 10.011911153793335
+}
+ ;{
+  "acInHandler": 47.259953022003174,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    81.7495129108429,
+    94.42476511001587,
+    47.92042589187622
+  ],
+  "parsingACLs": 82.14731001853943,
+  "findingFilters": 11.267577886581421
+}
+ ;{
+  "acInHandler": 50.386399030685425,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    131.5985689163208,
+    133.8063681125641,
+    51.04574489593506
+  ],
+  "parsingACLs": 117.001788854599,
+  "findingFilters": 15.72044587135315
+}
+ ;{
+  "acInHandler": 44.00947284698486,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    184.55500316619873,
+    184.54449701309204,
+    44.58699989318848
+  ],
+  "parsingACLs": 159.18432784080505,
+  "findingFilters": 23.014060020446777
+}
+ ;{
+  "acInHandler": 51.89457297325134,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    189.1264088153839,
+    45.815495014190674,
+    52.590267181396484
+  ],
+  "parsingACLs": 38.29557800292969,
+  "findingFilters": 6.819694995880127
+}
+ ;{
+  "acInHandler": 43.96959590911865,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    83.72741889953613,
+    91.03298211097717,
+    44.61495900154114
+  ],
+  "parsingACLs": 79.89658498764038,
+  "findingFilters": 10.327802896499634
+}
+ ;{
+  "acInHandler": 45.72521710395813,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    128.66397309303284,
+    134.34331893920898,
+    46.28042817115784
+  ],
+  "parsingACLs": 119.54218888282776,
+  "findingFilters": 13.680190086364746
+}
+ ;{
+  "acInHandler": 40.945148944854736,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    179.30765414237976,
+    184.30234479904175,
+    41.6006441116333
+  ],
+  "parsingACLs": 159.78869199752808,
+  "findingFilters": 23.0246639251709
+}
+ ;{
+  "acInHandler": 45.17870283126831,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    192.8312509059906,
+    48.232882022857666,
+    46.04383993148804
+  ],
+  "parsingACLs": 40.263253927230835,
+  "findingFilters": 7.390053987503052
+}
+ ;{
+  "acInHandler": 45.92801880836487,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    87.52595806121826,
+    96.64485192298889,
+    46.46296405792236
+  ],
+  "parsingACLs": 85.31216287612915,
+  "findingFilters": 10.512566089630127
+}
+ ;{
+  "acInHandler": 47.15556502342224,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    128.18227005004883,
+    133.90337705612183,
+    47.76600503921509
+  ],
+  "parsingACLs": 116.05760192871094,
+  "findingFilters": 16.727144956588745
+}
+ ;{
+  "acInHandler": 42.47396993637085,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    179.0028259754181,
+    184.71586799621582,
+    42.93728494644165
+  ],
+  "parsingACLs": 160.18587398529053,
+  "findingFilters": 23.093219995498657
+}
+ ;{
+  "acInHandler": 53.39882802963257,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    206.54010701179504,
+    44.0498480796814,
+    54.425758838653564
+  ],
+  "parsingACLs": 34.975154876708984,
+  "findingFilters": 8.475502014160156
+}
+ ;{
+  "acInHandler": 45.989368200302124,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    81.77301287651062,
+    95.79090595245361,
+    46.49286913871765
+  ],
+  "parsingACLs": 83.87806415557861,
+  "findingFilters": 11.101511001586914
+}
+ ;{
+  "acInHandler": 45.58408808708191,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    133.9103090763092,
+    135.53298592567444,
+    46.299753189086914
+  ],
+  "parsingACLs": 116.57628107070923,
+  "findingFilters": 17.878612995147705
+}
+ ;{
+  "acInHandler": 43.00054883956909,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    180.25008893013,
+    189.81431698799133,
+    43.473129987716675
+  ],
+  "parsingACLs": 168.63934803009033,
+  "findingFilters": 19.647932052612305
+}
+ ;{
+  "acInHandler": 50.21869087219238,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    188.9089231491089,
+    45.11409401893616,
+    52.25690293312073
+  ],
+  "parsingACLs": 38.215831995010376,
+  "findingFilters": 6.144355058670044
+}
+ ;{
+  "acInHandler": 42.82660102844238,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    79.7953610420227,
+    97.877357006073,
+    43.37850904464722
+  ],
+  "parsingACLs": 85.19425797462463,
+  "findingFilters": 11.515608787536621
+}
+ ;{
+  "acInHandler": 53.83737897872925,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    136.50786304473877,
+    148.6403889656067,
+    54.504640102386475
+  ],
+  "parsingACLs": 127.37918615341187,
+  "findingFilters": 20.130309104919434
+}
+ ;{
+  "acInHandler": 48.80783295631409,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    180.94162011146545,
+    189.44675302505493,
+    49.458415031433105
+  ],
+  "parsingACLs": 168.39449000358582,
+  "findingFilters": 19.525431871414185
+}
+ ;{
+  "acInHandler": 45.20648407936096,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    185.58455204963684,
+    43.59240412712097,
+    45.75611186027527
+  ],
+  "parsingACLs": 34.11661195755005,
+  "findingFilters": 8.979665994644165
+}
+ ;{
+  "acInHandler": 44.153411865234375,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    81.05840587615967,
+    91.69381308555603,
+    44.833783864974976
+  ],
+  "parsingACLs": 78.46420907974243,
+  "findingFilters": 11.902907848358154
+}
+ ;{
+  "acInHandler": 45.485241174697876,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    134.25446581840515,
+    134.71369910240173,
+    46.09226107597351
+  ],
+  "parsingACLs": 115.9610230922699,
+  "findingFilters": 17.644213914871216
+}
+ ;{
+  "acInHandler": 44.59688591957092,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    180.53284883499146,
+    186.87276816368103,
+    45.104652881622314
+  ],
+  "parsingACLs": 162.61972784996033,
+  "findingFilters": 22.826780080795288
+}
+ ;{
+  "acInHandler": 54.44408082962036,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    187.84838891029358,
+    44.226553201675415,
+    55.17590093612671
+  ],
+  "parsingACLs": 36.88443613052368,
+  "findingFilters": 6.771944046020508
+}
+ ;{
+  "acInHandler": 44.71716499328613,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    70.17840909957886,
+    95.82655596733093,
+    45.20784401893616
+  ],
+  "parsingACLs": 84.1992700099945,
+  "findingFilters": 10.795992136001587
+}
+ ;{
+  "acInHandler": 53.19655513763428,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    126.30503487586975,
+    133.7619800567627,
+    53.846652030944824
+  ],
+  "parsingACLs": 118.52339887619019,
+  "findingFilters": 14.094568967819214
+}
+ ;{
+  "acInHandler": 81.40654706954956,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    181.1956250667572,
+    187.44356298446655,
+    82.1871829032898
+  ],
+  "parsingACLs": 159.5473690032959,
+  "findingFilters": 26.320322036743164
+}
+ ;{
+  "acInHandler": 47.290812969207764,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    26.75148582458496,
+    70.24899101257324,
+    47.835237979888916
+  ],
+  "parsingACLs": 62.23757004737854,
+  "findingFilters": 7.120093822479248
+}
+ ;{
+  "acInHandler": 41.45286679267883,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    91.5220251083374,
+    106.18885803222656,
+    42.100058794021606
+  ],
+  "parsingACLs": 93.24538207054138,
+  "findingFilters": 12.107769012451172
+}
+ ;{
+  "acInHandler": 51.98891305923462,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    132.8478889465332,
+    146.19438886642456,
+    52.4451961517334
+  ],
+  "parsingACLs": 125.54099702835083,
+  "findingFilters": 19.516906023025513
+}
+ ;{
+  "acInHandler": 44.18779110908508,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    193.6988639831543,
+    120.168692111969,
+    44.84061098098755
+  ],
+  "parsingACLs": 113.5661268234253,
+  "findingFilters": 3.9010000228881836
+}
+ ;{
+  "acInHandler": 41.55515503883362,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    68.50625801086426,
+    80.56627416610718,
+    42.0722279548645
+  ],
+  "parsingACLs": 70.52868294715881,
+  "findingFilters": 9.336518049240112
+}
+ ;{
+  "acInHandler": 47.41982579231262,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    112.13953399658203,
+    126.79341697692871,
+    47.92016887664795
+  ],
+  "parsingACLs": 109.72135901451111,
+  "findingFilters": 16.085211038589478
+}
+ ;{
+  "acInHandler": 46.118621826171875,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    157.0240240097046,
+    176.1816291809082,
+    46.698622941970825
+  ],
+  "parsingACLs": 154.69087100028992,
+  "findingFilters": 19.906777143478394
+}
+ ;{
+  "acInHandler": 46.949867963790894,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    190.87308716773987,
+    43.978946924209595,
+    47.67550706863403
+  ],
+  "parsingACLs": 33.84572792053223,
+  "findingFilters": 9.569758892059326
+}
+ ;{
+  "acInHandler": 42.92813587188721,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    80.49687504768372,
+    94.76803517341614,
+    43.61987280845642
+  ],
+  "parsingACLs": 83.40707898139954,
+  "findingFilters": 10.574301958084106
+}
+ ;{
+  "acInHandler": 48.8592050075531,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    130.61819005012512,
+    134.19258189201355,
+    49.39677309989929
+  ],
+  "parsingACLs": 116.1187961101532,
+  "findingFilters": 16.95941710472107
+}
+ ;{
+  "acInHandler": 41.62407398223877,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    174.00807309150696,
+    191.17047095298767,
+    42.265177965164185
+  ],
+  "parsingACLs": 167.8347110748291,
+  "findingFilters": 21.91656994819641
+}
+ ;{
+  "acInHandler": 48.37957787513733,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    209.11333298683167,
+    43.58234095573425,
+    49.75521421432495
+  ],
+  "parsingACLs": 34.0946569442749,
+  "findingFilters": 8.703691005706787
+}
+ ;{
+  "acInHandler": 46.51169204711914,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    83.17966604232788,
+    96.01962995529175,
+    47.78221106529236
+  ],
+  "parsingACLs": 83.89593720436096,
+  "findingFilters": 11.300220012664795
+}
+ ;{
+  "acInHandler": 50.34359312057495,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    125.30949306488037,
+    139.32968997955322,
+    51.01571488380432
+  ],
+  "parsingACLs": 121.67139101028442,
+  "findingFilters": 16.53497004508972
+}
+ ;{
+  "acInHandler": 41.89105796813965,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    179.0658791065216,
+    185.3516809940338,
+    42.664511919021606
+  ],
+  "parsingACLs": 160.65981006622314,
+  "findingFilters": 23.21697998046875
+}
+ ;{
+  "acInHandler": 51.9560170173645,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    212.97733783721924,
+    46.81433701515198,
+    52.64882302284241
+  ],
+  "parsingACLs": 39.70056200027466,
+  "findingFilters": 6.508306980133057
+}
+ ;{
+  "acInHandler": 47.53376603126526,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    80.83828401565552,
+    91.87068009376526,
+    48.20750403404236
+  ],
+  "parsingACLs": 79.69210195541382,
+  "findingFilters": 11.343101024627686
+}
+ ;{
+  "acInHandler": 45.058063983917236,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    131.09056401252747,
+    134.70932817459106,
+    45.6959969997406
+  ],
+  "parsingACLs": 116.62094712257385,
+  "findingFilters": 16.984967947006226
+}
+ ;{
+  "acInHandler": 45.26420712471008,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    175.84572196006775,
+    190.25520706176758,
+    45.8567898273468
+  ],
+  "parsingACLs": 161.4916431903839,
+  "findingFilters": 27.228786945343018
+}
+ ;{
+  "acInHandler": 49.90258193016052,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    190.41338992118835,
+    40.67763710021973,
+    50.59567189216614
+  ],
+  "parsingACLs": 33.156883001327515,
+  "findingFilters": 6.987372159957886
+}
+ ;{
+  "acInHandler": 40.57173705101013,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    81.27430701255798,
+    91.91837191581726,
+    41.27361512184143
+  ],
+  "parsingACLs": 80.78881192207336,
+  "findingFilters": 10.249844074249268
+}
+ ;{
+  "acInHandler": 50.38686013221741,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    131.99834394454956,
+    138.6086390018463,
+    51.059317111968994
+  ],
+  "parsingACLs": 120.50024890899658,
+  "findingFilters": 16.921918869018555
+}
+ ;{
+  "acInHandler": 47.19761085510254,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    175.94785904884338,
+    191.19648599624634,
+    47.9333291053772
+  ],
+  "parsingACLs": 162.07744598388672,
+  "findingFilters": 27.63762617111206
+}
+ ;{
+  "acInHandler": 61.271108865737915,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    193.62547206878662,
+    47.3619339466095,
+    62.73808813095093
+  ],
+  "parsingACLs": 38.801411151885986,
+  "findingFilters": 7.765304088592529
+}
+ ;{
+  "acInHandler": 45.024189949035645,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    80.97607707977295,
+    97.78603291511536,
+    45.553091049194336
+  ],
+  "parsingACLs": 86.62462711334229,
+  "findingFilters": 10.184508085250854
+}
+ ;{
+  "acInHandler": 45.37545919418335,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    128.94270396232605,
+    135.7575101852417,
+    46.0152428150177
+  ],
+  "parsingACLs": 118.86458492279053,
+  "findingFilters": 15.792697191238403
+}
+ ;{
+  "acInHandler": 79.22630381584167,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    180.8363950252533,
+    186.90083599090576,
+    79.81645894050598
+  ],
+  "parsingACLs": 162.1695249080658,
+  "findingFilters": 23.283849954605103
+}
+ ;{
+  "acInHandler": 44.97347903251648,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    28.957639932632446,
+    72.72772908210754,
+    45.48742079734802
+  ],
+  "parsingACLs": 61.52066683769226,
+  "findingFilters": 5.97365403175354
+}
+ ;{
+  "acInHandler": 39.856619119644165,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    88.53920388221741,
+    100.91091418266296,
+    40.315191984176636
+  ],
+  "parsingACLs": 88.09794092178345,
+  "findingFilters": 11.95668888092041
+}
+ ;{
+  "acInHandler": 44.14191508293152,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    133.91531801223755,
+    149.17309999465942,
+    44.79762816429138
+  ],
+  "parsingACLs": 129.85775804519653,
+  "findingFilters": 18.18790292739868
+}
+ ;{
+  "acInHandler": 43.863956928253174,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    187.24252700805664,
+    102.50276494026184,
+    44.7060980796814
+  ],
+  "parsingACLs": 95.30554986000061,
+  "findingFilters": 4.402544021606445
+}
+ ;{
+  "acInHandler": 41.32534599304199,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    63.023411989212036,
+    86.99007797241211,
+    42.03020000457764
+  ],
+  "parsingACLs": 77.09665203094482,
+  "findingFilters": 8.871365070343018
+}
+ ;{
+  "acInHandler": 44.609822034835815,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    120.11013603210449,
+    124.35971903800964,
+    45.28146696090698
+  ],
+  "parsingACLs": 110.51509809494019,
+  "findingFilters": 12.835928916931152
+}
+ ;{
+  "acInHandler": 40.704272985458374,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    161.02425408363342,
+    175.39199995994568,
+    41.3563129901886
+  ],
+  "parsingACLs": 152.92749905586243,
+  "findingFilters": 20.924551010131836
+}
+ ;{
+  "acInHandler": 45.98959493637085,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    181.44128799438477,
+    43.53452396392822,
+    46.58947396278381
+  ],
+  "parsingACLs": 37.26202392578125,
+  "findingFilters": 5.71384596824646
+}
+ ;{
+  "acInHandler": 43.09062600135803,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    79.61615705490112,
+    93.15019392967224,
+    43.76798701286316
+  ],
+  "parsingACLs": 82.12085103988647,
+  "findingFilters": 9.751991987228394
+}
+ ;{
+  "acInHandler": 49.17280697822571,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    131.67245602607727,
+    153.05342388153076,
+    49.76532506942749
+  ],
+  "parsingACLs": 135.53813290596008,
+  "findingFilters": 16.348495960235596
+}
+ ;{
+  "acInHandler": 44.50499415397644,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    179.1293158531189,
+    187.02954602241516,
+    45.52560901641846
+  ],
+  "parsingACLs": 161.21647596359253,
+  "findingFilters": 24.178998947143555
+}
+ ;{
+  "acInHandler": 48.57989692687988,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    198.21190690994263,
+    42.93233013153076,
+    50.63023090362549
+  ],
+  "parsingACLs": 34.733076095581055,
+  "findingFilters": 7.555487155914307
+}
+ ;{
+  "acInHandler": 42.420215129852295,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    82.40019392967224,
+    93.75576519966125,
+    43.06045198440552
+  ],
+  "parsingACLs": 82.62919902801514,
+  "findingFilters": 10.339433908462524
+}
+ ;{
+  "acInHandler": 50.81319499015808,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    131.7767550945282,
+    133.05574297904968,
+    51.40329909324646
+  ],
+  "parsingACLs": 116.55871605873108,
+  "findingFilters": 15.381667852401733
+}
+ ;{
+  "acInHandler": 42.69626188278198,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    184.5001711845398,
+    187.74354791641235,
+    43.16007590293884
+  ],
+  "parsingACLs": 165.4502649307251,
+  "findingFilters": 20.573988914489746
+}
+ ;{
+  "acInHandler": 57.601293087005615,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    210.81724619865417,
+    52.653472900390625,
+    58.222923040390015
+  ],
+  "parsingACLs": 45.41260600090027,
+  "findingFilters": 6.545238018035889
+}
+ ;{
+  "acInHandler": 42.67132806777954,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    81.8514301776886,
+    97.40116381645203,
+    43.32247495651245
+  ],
+  "parsingACLs": 85.80580306053162,
+  "findingFilters": 10.827884912490845
+}
+ ;{
+  "acInHandler": 46.94843101501465,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    126.36376285552979,
+    139.336266040802,
+    47.52656316757202
+  ],
+  "parsingACLs": 121.331139087677,
+  "findingFilters": 16.678900957107544
+}
+ ;{
+  "acInHandler": 41.6889750957489,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    179.7142689228058,
+    184.89015817642212,
+    42.322765827178955
+  ],
+  "parsingACLs": 161.8475580215454,
+  "findingFilters": 21.540324211120605
+}
+ ;{
+  "acInHandler": 46.24863910675049,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    200.1327018737793,
+    43.68092894554138,
+    46.769912004470825
+  ],
+  "parsingACLs": 37.29497480392456,
+  "findingFilters": 5.8346521854400635
+}
+ ;{
+  "acInHandler": 39.02143311500549,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    81.42712497711182,
+    92.37463998794556,
+    39.545697927474976
+  ],
+  "parsingACLs": 80.85429191589355,
+  "findingFilters": 10.6704740524292
+}
+ ;{
+  "acInHandler": 45.49019813537598,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    138.1403169631958,
+    137.26666593551636,
+    46.11551022529602
+  ],
+  "parsingACLs": 119.69653606414795,
+  "findingFilters": 16.457974910736084
+}
+ ;{
+  "acInHandler": 43.33340287208557,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    175.95808482170105,
+    184.33038115501404,
+    43.92474699020386
+  ],
+  "parsingACLs": 161.2144811153412,
+  "findingFilters": 21.645017862319946
+}
+ ;{
+  "acInHandler": 51.812806129455566,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    189.09943199157715,
+    44.78585505485535,
+    52.40906596183777
+  ],
+  "parsingACLs": 38.39122486114502,
+  "findingFilters": 5.855100870132446
+}
+ ;{
+  "acInHandler": 44.86627697944641,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    72.50521492958069,
+    103.44800114631653,
+    45.626232862472534
+  ],
+  "parsingACLs": 91.60958313941956,
+  "findingFilters": 10.574443817138672
+}
+ ;{
+  "acInHandler": 52.019904136657715,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    127.46384596824646,
+    134.28710317611694,
+    52.61963486671448
+  ],
+  "parsingACLs": 116.7403998374939,
+  "findingFilters": 16.454766035079956
+}
+ ;{
+  "acInHandler": 79.99891710281372,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    180.14779996871948,
+    190.02958798408508,
+    81.46477007865906
+  ],
+  "parsingACLs": 167.05120706558228,
+  "findingFilters": 21.251813888549805
+}
+ ;{
+  "acInHandler": 45.79670214653015,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    26.5226628780365,
+    67.31902503967285,
+    46.55541706085205
+  ],
+  "parsingACLs": 59.7744140625,
+  "findingFilters": 6.86852502822876
+}
+ ;{
+  "acInHandler": 44.815712213516235,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    89.57200503349304,
+    100.40167713165283,
+    45.47053599357605
+  ],
+  "parsingACLs": 88.24538207054138,
+  "findingFilters": 11.078383922576904
+}
+ ;{
+  "acInHandler": 45.90159296989441,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    137.31633114814758,
+    140.6554470062256,
+    46.474310874938965
+  ],
+  "parsingACLs": 123.74436211585999,
+  "findingFilters": 15.793524026870728
+}
+ ;{
+  "acInHandler": 42.636861085891724,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    184.29196906089783,
+    169.7759599685669,
+    43.303163051605225
+  ],
+  "parsingACLs": 164.90072393417358,
+  "findingFilters": 3.355297088623047
+}
+ ;{
+  "acInHandler": 45.93340492248535,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    53.31031918525696,
+    76.49603390693665,
+    46.582863092422485
+  ],
+  "parsingACLs": 67.24959993362427,
+  "findingFilters": 8.446524143218994
+}
+ ;{
+  "acInHandler": 60.0525381565094,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    121.43972706794739,
+    128.58114790916443,
+    60.68293309211731
+  ],
+  "parsingACLs": 111.29042506217957,
+  "findingFilters": 16.144261121749878
+}
+ ;{
+  "acInHandler": 46.745020151138306,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    166.32845401763916,
+    183.3805661201477,
+    47.28667092323303
+  ],
+  "parsingACLs": 161.04672813415527,
+  "findingFilters": 20.892953872680664
+}
+ ;{
+  "acInHandler": 51.475696086883545,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    239.18034195899963,
+    98.48793506622314,
+    52.24201703071594
+  ],
+  "parsingACLs": 90.58728909492493,
+  "findingFilters": 4.770682096481323
+}
+ ;{
+  "acInHandler": 50.546546936035156,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    74.78733396530151,
+    90.23275709152222,
+    51.17369079589844
+  ],
+  "parsingACLs": 74.8421859741211,
+  "findingFilters": 14.043386936187744
+}
+ ;{
+  "acInHandler": 50.017014026641846,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    130.39160203933716,
+    132.47021889686584,
+    50.486457109451294
+  ],
+  "parsingACLs": 117.9640588760376,
+  "findingFilters": 13.37349796295166
+}
+ ;{
+  "acInHandler": 48.032119035720825,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    189.10147404670715,
+    199.1113669872284,
+    48.60778999328613
+  ],
+  "parsingACLs": 173.73740100860596,
+  "findingFilters": 23.735949993133545
+}
+ ;{
+  "acInHandler": 45.5830340385437,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    232.06685996055603,
+    48.611791133880615,
+    46.11223888397217
+  ],
+  "parsingACLs": 41.84400010108948,
+  "findingFilters": 6.1984498500823975
+}
+ ;{
+  "acInHandler": 44.94643783569336,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    71.59092283248901,
+    102.57429313659668,
+    45.61674785614014
+  ],
+  "parsingACLs": 91.14510917663574,
+  "findingFilters": 10.589482069015503
+}
+ ;{
+  "acInHandler": 44.62232494354248,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    132.02130699157715,
+    133.65483498573303,
+    45.08335614204407
+  ],
+  "parsingACLs": 114.83545708656311,
+  "findingFilters": 17.76097297668457
+}
+ ;{
+  "acInHandler": 45.15168905258179,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    179.20173907279968,
+    182.86793088912964,
+    45.76123809814453
+  ],
+  "parsingACLs": 159.90683102607727,
+  "findingFilters": 21.532181978225708
+}
+ ;{
+  "acInHandler": 54.86751985549927,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    197.2072389125824,
+    47.28711795806885,
+    55.42763113975525
+  ],
+  "parsingACLs": 39.46736693382263,
+  "findingFilters": 7.210929870605469
+}
+ ;{
+  "acInHandler": 42.54300785064697,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    71.3294448852539,
+    99.22565817832947,
+    43.02678990364075
+  ],
+  "parsingACLs": 87.43646502494812,
+  "findingFilters": 10.991753101348877
+}
+ ;{
+  "acInHandler": 48.72722601890564,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    129.00689101219177,
+    132.82604503631592,
+    49.37597680091858
+  ],
+  "parsingACLs": 114.83392405509949,
+  "findingFilters": 16.870429039001465
+}
+ ;{
+  "acInHandler": 51.96985220909119,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    174.66745710372925,
+    229.28505110740662,
+    52.42978477478027
+  ],
+  "parsingACLs": 202.04095792770386,
+  "findingFilters": 25.380336046218872
+}
+ ;{
+  "acInHandler": 49.28188610076904,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    199.2924201488495,
+    44.688294887542725,
+    49.847548961639404
+  ],
+  "parsingACLs": 38.018101930618286,
+  "findingFilters": 6.039480924606323
+}
+ ;{
+  "acInHandler": 43.56859993934631,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    80.50003814697266,
+    94.56502795219421,
+    44.20104503631592
+  ],
+  "parsingACLs": 82.35965299606323,
+  "findingFilters": 11.120742082595825
+}
+ ;{
+  "acInHandler": 51.060149908065796,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    135.43484687805176,
+    137.12737917900085,
+    51.710022926330566
+  ],
+  "parsingACLs": 120.37889099121094,
+  "findingFilters": 15.658145904541016
+}
+ ;{
+  "acInHandler": 41.88392090797424,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    178.59559082984924,
+    183.5118269920349,
+    42.34160804748535
+  ],
+  "parsingACLs": 160.09679102897644,
+  "findingFilters": 21.95113778114319
+}
+ ;{
+  "acInHandler": 51.19961094856262,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    193.69233393669128,
+    48.29540991783142,
+    52.04049491882324
+  ],
+  "parsingACLs": 39.14580202102661,
+  "findingFilters": 8.548378944396973
+}
+ ;{
+  "acInHandler": 47.25630307197571,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    81.42078709602356,
+    89.72790908813477,
+    48.030401945114136
+  ],
+  "parsingACLs": 78.08659601211548,
+  "findingFilters": 10.283613920211792
+}
+ ;{
+  "acInHandler": 48.745311975479126,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    131.9617109298706,
+    136.05735206604004,
+    49.36706495285034
+  ],
+  "parsingACLs": 120.63782095909119,
+  "findingFilters": 14.35572099685669
+}
+ ;{
+  "acInHandler": 41.902852058410645,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    177.17290687561035,
+    194.18857216835022,
+    42.48328900337219
+  ],
+  "parsingACLs": 169.76362013816833,
+  "findingFilters": 22.31114411354065
+}
+ ;{
+  "acInHandler": 47.12168908119202,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    190.1567621231079,
+    49.04718995094299,
+    47.943294048309326
+  ],
+  "parsingACLs": 38.864104986190796,
+  "findingFilters": 9.453918933868408
+}
+ ;{
+  "acInHandler": 41.38529586791992,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    80.81227397918701,
+    93.42446780204773,
+    42.03759717941284
+  ],
+  "parsingACLs": 81.00661396980286,
+  "findingFilters": 11.594608068466187
+}
+ ;{
+  "acInHandler": 42.238576889038086,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    126.98819303512573,
+    136.48131895065308,
+    42.70228815078735
+  ],
+  "parsingACLs": 120.978679895401,
+  "findingFilters": 14.285327196121216
+}
+ ;{
+  "acInHandler": 43.679250955581665,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    176.99581813812256,
+    188.2961769104004,
+    44.152467012405396
+  ],
+  "parsingACLs": 166.16373109817505,
+  "findingFilters": 19.662395000457764
+}
+ ;{
+  "acInHandler": 43.39803910255432,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    186.91149806976318,
+    46.92958092689514,
+    43.945415019989014
+  ],
+  "parsingACLs": 39.98961400985718,
+  "findingFilters": 6.373333930969238
+}
+ ;{
+  "acInHandler": 41.21819710731506,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    75.88931083679199,
+    96.89109015464783,
+    41.88704800605774
+  ],
+  "parsingACLs": 84.52588605880737,
+  "findingFilters": 9.46552300453186
+}
+ ;{
+  "acInHandler": 47.57181000709534,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    126.21801018714905,
+    139.98397088050842,
+    48.17172694206238
+  ],
+  "parsingACLs": 122.31828117370605,
+  "findingFilters": 16.532572031021118
+}
+ ;{
+  "acInHandler": 42.42388200759888,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    184.5615119934082,
+    191.7262749671936,
+    43.27153921127319
+  ],
+  "parsingACLs": 161.97294688224792,
+  "findingFilters": 27.44870901107788
+}
+ ;{
+  "acInHandler": 53.35314083099365,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    196.22634887695312,
+    49.321533203125,
+    54.02006983757019
+  ],
+  "parsingACLs": 40.77813386917114,
+  "findingFilters": 6.522810935974121
+}
+ ;{
+  "acInHandler": 45.418286085128784,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    82.16303396224976,
+    95.6993420124054,
+    45.99247097969055
+  ],
+  "parsingACLs": 82.38117909431458,
+  "findingFilters": 12.530344009399414
+}
+ ;{
+  "acInHandler": 48.04106593132019,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    126.4278199672699,
+    140.78107905387878,
+    48.61561298370361
+  ],
+  "parsingACLs": 120.61259484291077,
+  "findingFilters": 18.940757989883423
+}
+ ;{
+  "acInHandler": 78.02735185623169,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    176.59667706489563,
+    183.6118779182434,
+    78.51206493377686
+  ],
+  "parsingACLs": 159.24823379516602,
+  "findingFilters": 22.968848943710327
+}
+ ;{
+  "acInHandler": 42.50306487083435,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    28.73280692100525,
+    72.6127381324768,
+    43.20104193687439
+  ],
+  "parsingACLs": 64.93487787246704,
+  "findingFilters": 7.12065315246582
+}
+ ;{
+  "acInHandler": 41.41379499435425,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    90.87729096412659,
+    98.18451404571533,
+    41.86454701423645
+  ],
+  "parsingACLs": 85.58143901824951,
+  "findingFilters": 11.749374151229858
+}
+ ;{
+  "acInHandler": 45.099283933639526,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    137.93791317939758,
+    148.7537100315094,
+    45.76911997795105
+  ],
+  "parsingACLs": 128.31810998916626,
+  "findingFilters": 19.211709022521973
+}
+ ;{
+  "acInHandler": 45.02274703979492,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    188.8903570175171,
+    177.90881299972534,
+    45.815171003341675
+  ],
+  "parsingACLs": 172.85213899612427,
+  "findingFilters": 3.4908480644226074
+}
+ ;{
+  "acInHandler": 37.644075870513916,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    48.843443870544434,
+    76.2919430732727,
+    38.12420892715454
+  ],
+  "parsingACLs": 66.30999302864075,
+  "findingFilters": 9.348569869995117
+}
+ ;{
+  "acInHandler": 47.752053022384644,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    107.76703310012817,
+    114.18347001075745,
+    48.35268783569336
+  ],
+  "parsingACLs": 99.17576909065247,
+  "findingFilters": 13.83238410949707
+}
+ ;{
+  "acInHandler": 44.919528007507324,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    149.52118802070618,
+    164.73738598823547,
+    45.501856088638306
+  ],
+  "parsingACLs": 143.28146982192993,
+  "findingFilters": 20.144259929656982
+}
+ ;{
+  "acInHandler": 49.15222978591919,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    185.95327997207642,
+    39.6854510307312,
+    49.70096302032471
+  ],
+  "parsingACLs": 32.862231969833374,
+  "findingFilters": 6.2953760623931885
+}
+ ;{
+  "acInHandler": 43.34948992729187,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    71.9398181438446,
+    98.52417707443237,
+    43.98285794258118
+  ],
+  "parsingACLs": 85.72992396354675,
+  "findingFilters": 11.960986137390137
+}
+ ;{
+  "acInHandler": 48.23259687423706,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    128.12870407104492,
+    135.02988004684448,
+    48.87770891189575
+  ],
+  "parsingACLs": 117.60715985298157,
+  "findingFilters": 16.329061031341553
+}
+ ;{
+  "acInHandler": 45.87663698196411,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    175.75192594528198,
+    192.3982379436493,
+    46.52268409729004
+  ],
+  "parsingACLs": 170.78326201438904,
+  "findingFilters": 19.911816835403442
+}
+ ;{
+  "acInHandler": 46.94678807258606,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    186.9744701385498,
+    42.85331892967224,
+    47.64665198326111
+  ],
+  "parsingACLs": 36.21745014190674,
+  "findingFilters": 6.0955071449279785
+}
+ ;{
+  "acInHandler": 47.2871150970459,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    80.1606650352478,
+    92.20904612541199,
+    48.01512289047241
+  ],
+  "parsingACLs": 79.8757688999176,
+  "findingFilters": 11.080639123916626
+}
+ ;{
+  "acInHandler": 58.968608140945435,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    126.18997597694397,
+    134.53109288215637,
+    59.55141615867615
+  ],
+  "parsingACLs": 117.67614698410034,
+  "findingFilters": 15.779947996139526
+}
+ ;{
+  "acInHandler": 42.51491403579712,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    175.77813291549683,
+    185.4649748802185,
+    43.10938310623169
+  ],
+  "parsingACLs": 161.67875719070435,
+  "findingFilters": 22.329440116882324
+}
+ ;{
+  "acInHandler": 44.25358200073242,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    201.03012108802795,
+    43.43528985977173,
+    45.00033402442932
+  ],
+  "parsingACLs": 36.91546297073364,
+  "findingFilters": 5.983766078948975
+}
+ ;{
+  "acInHandler": 45.34483504295349,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    80.81798791885376,
+    93.73886299133301,
+    46.009971141815186
+  ],
+  "parsingACLs": 80.64849090576172,
+  "findingFilters": 11.98376989364624
+}
+ ;{
+  "acInHandler": 46.661242961883545,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    127.4419949054718,
+    131.1572289466858,
+    47.11631417274475
+  ],
+  "parsingACLs": 116.40497493743896,
+  "findingFilters": 13.675749778747559
+}
+ ;{
+  "acInHandler": 45.836540937423706,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    179.12885689735413,
+    184.51552200317383,
+    46.472902059555054
+  ],
+  "parsingACLs": 159.21374893188477,
+  "findingFilters": 23.138885974884033
+}
+ ;{
+  "acInHandler": 50.20976495742798,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    202.56599307060242,
+    45.49523711204529,
+    51.06015491485596
+  ],
+  "parsingACLs": 35.802924156188965,
+  "findingFilters": 9.149686813354492
+}
+ ;{
+  "acInHandler": 44.57400107383728,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    69.01147699356079,
+    97.40393304824829,
+    45.286351919174194
+  ],
+  "parsingACLs": 84.20953893661499,
+  "findingFilters": 12.371906042098999
+}
+ ;{
+  "acInHandler": 45.67018914222717,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    127.61137199401855,
+    132.83090901374817,
+    46.194864988327026
+  ],
+  "parsingACLs": 116.09073305130005,
+  "findingFilters": 15.667975187301636
+}
+ ;{
+  "acInHandler": 43.70073485374451,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    181.61750602722168,
+    189.28843188285828,
+    44.32398200035095
+  ],
+  "parsingACLs": 166.09313488006592,
+  "findingFilters": 21.5899178981781
+}
+ ;{
+  "acInHandler": 53.16874694824219,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    199.32759404182434,
+    43.23871302604675,
+    53.877354860305786
+  ],
+  "parsingACLs": 33.89838004112244,
+  "findingFilters": 8.75898003578186
+}
+ ;{
+  "acInHandler": 47.32618594169617,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    85.97550201416016,
+    92.09435415267944,
+    47.860678911209106
+  ],
+  "parsingACLs": 79.5723729133606,
+  "findingFilters": 11.606045961380005
+}
+ ;{
+  "acInHandler": 54.93249988555908,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    127.75111198425293,
+    133.06493091583252,
+    55.38007402420044
+  ],
+  "parsingACLs": 116.40103507041931,
+  "findingFilters": 15.558476209640503
+}
+ ;{
+  "acInHandler": 41.94809889793396,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    178.30420207977295,
+    189.39140796661377,
+    42.58236289024353
+  ],
+  "parsingACLs": 165.76392197608948,
+  "findingFilters": 22.019843816757202
+}
+ ;{
+  "acInHandler": 51.07730507850647,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    206.66271901130676,
+    47.66980791091919,
+    51.82402801513672
+  ],
+  "parsingACLs": 39.495173931121826,
+  "findingFilters": 7.540212154388428
+}
+ ;{
+  "acInHandler": 43.57133603096008,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    82.90495300292969,
+    91.2543420791626,
+    44.06935095787048
+  ],
+  "parsingACLs": 78.55058002471924,
+  "findingFilters": 11.87745189666748
+}
+ ;{
+  "acInHandler": 47.09182000160217,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    126.63998794555664,
+    135.57546091079712,
+    47.669607162475586
+  ],
+  "parsingACLs": 118.00988101959229,
+  "findingFilters": 16.492326974868774
+}
+ ;{
+  "acInHandler": 43.63449311256409,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    180.27788400650024,
+    189.88564705848694,
+    44.30751895904541
+  ],
+  "parsingACLs": 167.18008589744568,
+  "findingFilters": 21.06119394302368
+}
+ ;{
+  "acInHandler": 45.04388999938965,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    197.78712391853333,
+    43.489161014556885,
+    45.79257798194885
+  ],
+  "parsingACLs": 36.97382688522339,
+  "findingFilters": 5.914258003234863
+}
+ ;{
+  "acInHandler": 37.77394390106201,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    81.75635886192322,
+    97.15650296211243,
+    38.51366114616394
+  ],
+  "parsingACLs": 86.84543681144714,
+  "findingFilters": 9.343737125396729
+}
+ ;{
+  "acInHandler": 46.518003940582275,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    129.25168800354004,
+    137.11914610862732,
+    46.96936798095703
+  ],
+  "parsingACLs": 120.94981503486633,
+  "findingFilters": 15.059375047683716
+}
+ ;{
+  "acInHandler": 44.416274070739746,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    176.34406089782715,
+    187.86798000335693,
+    44.899131059646606
+  ],
+  "parsingACLs": 165.1284420490265,
+  "findingFilters": 21.216599941253662
+}
+ ;{
+  "acInHandler": 50.23692798614502,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    184.16490411758423,
+    44.774993896484375,
+    50.972843170166016
+  ],
+  "parsingACLs": 38.68904995918274,
+  "findingFilters": 5.564621925354004
+}
+ ;{
+  "acInHandler": 47.00603199005127,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    82.84763693809509,
+    96.03565621376038,
+    47.59046697616577
+  ],
+  "parsingACLs": 83.81406903266907,
+  "findingFilters": 11.195255041122437
+}
+ ;{
+  "acInHandler": 46.51884317398071,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    127.24295711517334,
+    138.90550088882446,
+    47.05644202232361
+  ],
+  "parsingACLs": 121.87274289131165,
+  "findingFilters": 15.717258930206299
+}
+ ;{
+  "acInHandler": 42.91163897514343,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    181.3244550228119,
+    196.0786669254303,
+    43.449562072753906
+  ],
+  "parsingACLs": 168.2400619983673,
+  "findingFilters": 26.12434983253479
+}
+ ;{
+  "acInHandler": 43.05786490440369,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    199.27556204795837,
+    44.34159517288208,
+    43.81718397140503
+  ],
+  "parsingACLs": 37.677541971206665,
+  "findingFilters": 6.0968310832977295
+}
+ ;{
+  "acInHandler": 42.752617835998535,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    81.06006097793579,
+    99.62787413597107,
+    43.378994941711426
+  ],
+  "parsingACLs": 84.79319381713867,
+  "findingFilters": 12.451580047607422
+}
+ ;{
+  "acInHandler": 47.41048216819763,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    136.98889684677124,
+    139.24762415885925,
+    47.98420476913452
+  ],
+  "parsingACLs": 120.90283918380737,
+  "findingFilters": 16.633466958999634
+}
+ ;{
+  "acInHandler": 44.34038710594177,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    182.06082391738892,
+    185.3521819114685,
+    44.94233798980713
+  ],
+  "parsingACLs": 162.10210585594177,
+  "findingFilters": 21.76749014854431
+}
+ ;{
+  "acInHandler": 48.103142976760864,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    187.0361771583557,
+    43.871476888656616,
+    48.914401054382324
+  ],
+  "parsingACLs": 34.623157024383545,
+  "findingFilters": 8.655138969421387
+}
+ ;{
+  "acInHandler": 40.389265060424805,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    80.41457414627075,
+    91.51798796653748,
+    41.01365089416504
+  ],
+  "parsingACLs": 77.87136507034302,
+  "findingFilters": 12.802899837493896
+}
+ ;{
+  "acInHandler": 42.438355922698975,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    132.37360620498657,
+    138.04161190986633,
+    47.542404890060425
+  ],
+  "parsingACLs": 120.14975786209106,
+  "findingFilters": 16.667887926101685
+}
+ ;{
+  "acInHandler": 43.08932399749756,
+  "headerpermissions": 0,
+  "handlerTimes": [
+    179.48129105567932,
+    190.78756499290466,
+    43.688908100128174
+  ],
+  "parsingACLs": 167.46458506584167,
+  "findingFilters": 21.882627964019775
+}
+ ;

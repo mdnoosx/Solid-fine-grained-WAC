@@ -1,0 +1,61 @@
+@prefix : <#>.
+@prefix o: <http://www.w3.org/ns/oa#>.
+@prefix ex: <http://example.com/>.
+@prefix XML: <http://www.w3.org/2001/XMLSchema#>.
+@prefix terms: <http://purl.org/dc/terms/>.
+@prefix c: <happywolf259/card#>.
+@prefix rd: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix c0: <ticklishrabbit979/card#>.
+@prefix c1: <greenkoala614/card#>.
+@prefix c2: <lazyfish364/card#>.
+
+:annotation0
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "6"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:41:44 GMT";
+    terms:creator c:me;
+    rd:label "Martin Mora created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.HunterLavigne.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation1
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "3"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:41:44 GMT";
+    terms:creator c0:me;
+    rd:label "Cesar Santana created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.QuentinClement.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation2
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "6"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:41:44 GMT";
+    terms:creator c1:me;
+    rd:label "Valentin Santiago created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.EugenioCrespo.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation3
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "5"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:41:44 GMT";
+    terms:creator c1:me;
+    rd:label "Valentin Santiago created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.SimonBaumgartner.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation4
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "3"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:41:44 GMT";
+    terms:creator c2:me;
+    rd:label "Sigismund Lemm created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.SimonBaumgartner.com/photo.png>;
+    o:motivatedBy o:commenting.

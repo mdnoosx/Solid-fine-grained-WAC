@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ex: <http://example.org/stuff/1.0/> .
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix schema:	<http://schema.org/> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+
+<#this> dc:title "Test title" .
+
+<http://www.w3.org/TR/rdf-syntax-grammar>
+  dc:title "RDF/XML Syntax Specification (Revised)" ;
+  ex:editor [
+    ex:fullname "Dave Beckett";
+    ex:homePage <http://purl.org/net/dajobe/>
+  ] .
+
+
+dbr:The_Lord_of_the_Rings	rdf:type	schema:Book ;
+    rdfs:label  "In de ban van de ring"@nl , "The Lord of the Rings"@en ;
+	dbp:publisher	<http://dbpedia.org/resource/Allen_&_Unwin> ;
+	dbp:pages	1216 ;
+    dbp:precededBy	dbr:The_Hobbit ;
+    dbp:country	"United Kingdom"^^rdf:langString .
+
+dbr:The_Hobbit	rdf:type	schema:Book ;
+    rdfs:label "The Hobbit"@en , "De Hobbit"@nl ;
+    dbp:country	"United Kingdom"^^rdf:langString .

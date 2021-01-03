@@ -1,0 +1,54 @@
+@prefix : <#> .
+@prefix n0: <http://www.w3.org/ns/auth/acl#> .
+@prefix c: </profile/card#> .
+@prefix s4ac: <http://ns.inria.fr/s4ac/v2#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix test: <https://github.ugent.be/mdnoo/MasterThesis/blob/master/refinedacl?raw=1#> .
+
+:ControlReadWrite
+    a n0:Authorization;
+    n0:accessTo <lot.ttl>;
+    n0:agent c:me;
+ #    n0:agentClass foaf:Agent;
+
+    n0:mode n0:Control, n0:Read, n0:Write.
+
+:Read
+    a n0:Authorization;
+    n0:accessTo <lot.ttl>;
+    n0:mode n0:Read, n0:Write;
+    n0:origin <https://test.local>.
+
+:ReadTest a n0:Authorization;
+ #  test:stopInheritance <lot.ttl>;
+    s4ac:appliesTo <lot.ttl>;
+    n0:mode n0:Read;
+   n0:agentClass foaf:Agent;
+   n0:origin <https://originrefined.local> ;
+  #  n0:agent c:me2;
+    test:hasAccessQuery """
+    PREFIX rdfs:	<http://www.w3.org/2000/01/rdf-schema#>
+    PREFIX rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    PREFIX dbp:	<http://dbpedia.org/property/>
+    CONSTRUCT { ?title rdf:type	schema:Book ;
+    rdfs:label ?label  . }
+    WHERE { ?title rdf:type	schema:Book ;
+    rdfs:label ?label  .
+    }
+    """.
+#FILTER EXISTS { ?title dbp:pages ?name .}
+
+:ReadTest2 a n0:Authorization;
+    s4ac:appliesTo <lot.ttl>;
+    n0:mode n0:Read;
+   n0:agentClass foaf:Agent;
+    test:hasAccessQuery """
+    PREFIX rdfs:	<http://www.w3.org/2000/01/rdf-schema#>
+    PREFIX rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    PREFIX dbp:	<http://dbpedia.org/property/>
+    PREFIX ex: <http://example.org/stuff/1.0/>
+    CONSTRUCT { ?title ex:shorter	?name . }
+    WHERE { ?title ex:editor ?ed .
+    ?ed  ex:fullname ?name.
+    }
+    """.

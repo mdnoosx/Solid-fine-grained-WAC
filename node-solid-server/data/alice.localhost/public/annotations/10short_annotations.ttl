@@ -1,0 +1,112 @@
+@prefix : <#>.
+@prefix o: <http://www.w3.org/ns/oa#>.
+@prefix ex: <http://example.com/>.
+@prefix XML: <http://www.w3.org/2001/XMLSchema#>.
+@prefix terms: <http://purl.org/dc/terms/>.
+@prefix c: <happywolf259/card#>.
+@prefix rd: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix c0: <bluelion825/card#>.
+@prefix c1: <ticklishdog486/card#>.
+@prefix c2: <sadrabbit175/card#>.
+@prefix c3: <angryrabbit143/card#>.
+
+:annotation0
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "6"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:43:17 GMT";
+    terms:creator c:me;
+    rd:label "Martin Mora created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.LoganReed.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation1
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "6"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:43:17 GMT";
+    terms:creator c:me;
+    rd:label "Alzira Castro created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.AddisonPark.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation2
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "10"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:43:17 GMT";
+    terms:creator c0:me;
+    rd:label "Jessica Lewis created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.GemaLeon.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation3
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "1"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:43:17 GMT";
+    terms:creator c1:me;
+    rd:label "Aparecida Pires created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.JulieYoung.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation4
+    a o:Annotation;
+    ex:isHidden "true";
+    ex:priority "7"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:43:17 GMT";
+    terms:creator c2:me;
+    rd:label "Ken Medina created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.LoganReed.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation5
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "3"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:43:17 GMT";
+    terms:creator c:me;
+    rd:label "Alzira Castro created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.JoyceHernandez.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation6
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "5"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:43:17 GMT";
+    terms:creator c0:me;
+    rd:label "Jessica Lewis created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.KentHart.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation7
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "2"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:43:17 GMT";
+    terms:creator c:me;
+    rd:label "Alzira Castro created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.JoseDelgado.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation8
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "9"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:43:17 GMT";
+    terms:creator c3:me;
+    rd:label "Leah Hamilton created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.KentHart.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation9
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "10"^^XML:int;
+    terms:created "Wed, 16 Dec 2020 20:43:17 GMT";
+    terms:creator c0:me;
+    rd:label "Jessica Lewis created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.AddisonPark.com/photo.png>;
+    o:motivatedBy o:commenting.

@@ -1,0 +1,20 @@
+## BibTex/LaTex auxiliary files
+*.acn
+*.aux
+*.bbl
+*.blg
+*.glo
+*.glsdefs
+*.ist
+*.lof
+*.log
+*.lot
+*.out
+*.synctex.gz
+*.toc
+*.DS_Store
+*.bst
+*.lol
+*.cls
+niet-git/
+documents/thesis/abstract/abstract.tex.backup

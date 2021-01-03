@@ -1,0 +1,56 @@
+# ACL resource for the public folder
+@prefix acl: <http://www.w3.org/ns/auth/acl#>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix test: <https://raw.githubusercontent.com/mdnoosx/refinedACL/main/refinedacl#>.
+
+# The owner has all permissions
+<#owner>
+    a acl:Authorization;
+    acl:agent <https://alice.localhost:8443/profile/card#me>;
+    acl:accessTo <./>;
+    acl:default <./>;
+    acl:mode acl:Read, acl:Write, acl:Control.
+
+
+:refQ7 a acl:Authorization;
+    test:appliesTo <./>;
+    acl:mode acl:Read;
+    #acl:origin <https://originrefined.local>;
+    test:inherit <./>;
+    acl:agentClass foaf:Agent;
+ #   acl:agent <https://bob.localhost:8443/profile/card#me>;
+    test:hasAccessQuery """
+       PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+        PREFIX rev: <http://purl.org/stuff/rev#>
+        PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+        PREFIX bsbm: <http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/>
+        PREFIX dc: <http://purl.org/dc/elements/1.1/>
+        PREFIX ex: <http://example.com/>
+
+        CONSTRUCT{ ?productLabel ex:from ?vendor .
+         ?price ex:withoffer ?offer.
+          ?vendorTitle ex:hasReview ?review .
+          ?revTitle ex:autor ?reviewer .
+           ?revName ex:for ?rating1, ?rating2}
+        WHERE {
+        	?ProductXYZ rdfs:label ?productLabel .
+            OPTIONAL {
+                ?offer bsbm:product ?ProductXYZ .
+        		?offer bsbm:price ?price .
+        		?offer bsbm:vendor ?vendor .
+        		?vendor rdfs:label ?vendorTitle .
+                ?vendor bsbm:country <http://downlode.org/rdf/iso-3166/countries#DE> .
+                ?offer dc:publisher ?vendor .
+                ?offer bsbm:validTo ?date .
+                FILTER (?date > "2001-07-06"^^xsd:date )
+            }
+            OPTIONAL {
+        	?review bsbm:reviewFor ?ProductXYZ .
+        	?review rev:reviewer ?reviewer .
+        	?reviewer foaf:name ?revName .
+        	?review dc:title ?revTitle .
+            OPTIONAL { ?review bsbm:rating1 ?rating1 . }
+            OPTIONAL { ?review bsbm:rating2 ?rating2 . }
+            }
+        }
+        """.

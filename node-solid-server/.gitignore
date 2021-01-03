@@ -1,0 +1,16 @@
+# Keep this in sync with .npmignore
+*.swp
+*~
+/.idea
+/.nyc_output
+/.tern-port
+/.db
+/accounts
+/config.json
+/config/account-template
+/config/email-templates
+/config/templates
+/config/views
+/coverage
+/node_modules
+/npm-debug.log

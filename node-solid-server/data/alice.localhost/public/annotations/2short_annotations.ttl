@@ -1,0 +1,29 @@
+@prefix : <#>.
+@prefix o: <http://www.w3.org/ns/oa#>.
+@prefix ex: <http://example.com/>.
+@prefix XML: <http://www.w3.org/2001/XMLSchema#>.
+@prefix terms: <http://purl.org/dc/terms/>.
+@prefix c: <happywolf259/card#>.
+@prefix rd: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix c0: <bigfrog374/card#>.
+
+:annotation0
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "6"^^XML:int;
+    terms:created "Fri, 18 Dec 2020 21:40:12 GMT";
+    terms:creator c:me;
+    rd:label "Martin Mora created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.JakobRobinson.com/photo.png>;
+    o:motivatedBy o:commenting.
+:annotation1
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "8"^^XML:int;
+    terms:created "Fri, 18 Dec 2020 21:40:12 GMT";
+    terms:creator c0:me;
+    rd:label "Elias Joki created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.IdunnEide.com/photo.png>;
+    o:motivatedBy o:commenting.

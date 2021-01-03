@@ -1,0 +1,60 @@
+# ACL resource for the public folder
+@prefix acl: <http://www.w3.org/ns/auth/acl#>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix test: <https://raw.githubusercontent.com/mdnoosx/refinedACL/main/refinedacl#>.
+
+# The owner has all permissions
+<#owner>
+    a acl:Authorization;
+    acl:agent <https://alice.localhost:8443/profile/card#me>;
+    acl:accessTo <./>;
+    acl:default <./>;
+    acl:mode acl:Read, acl:Write, acl:Control.
+
+# The public has read permissions (doesn't inherit)
+<#public>
+    a acl:Authorization;
+    acl:agentClass foaf:Agent;
+    acl:accessTo <./>;
+    acl:default <./>;
+    acl:mode acl:Read.
+
+:publicContainer a acl:Authorization;
+    test:appliesTo <./>;
+    acl:mode acl:Read;
+    acl:origin <https://originrefined.local>;
+    test:inherit <./>;
+ #   acl:agentClass foaf:Agent;
+ #   acl:agent <https://bob.localhost:8443/profile/card#me>;
+    test:hasAccessQuery """
+    PREFIX dbp:	<http://dbpedia.org/property/>
+    PREFIX rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    CONSTRUCT { ?title rdf:type	schema:Book ;
+    dbp:country ?country . }
+    WHERE {?title rdf:type	schema:Book ;
+     dbp:country ?country .}
+    """.
+
+:publicContainerAppend a acl:Authorization;
+    test:appliesTo <./>;
+    acl:mode acl:Write;
+    acl:origin <https://originrefined.local>;
+    test:inherit <./>;
+    acl:agentClass foaf:Agent;
+    acl:origin <https://test.local>;
+#    acl:agent <https://bob.localhost:8443/profile/card#me>;
+    test:hasAccessQuery """
+        PREFIX rdfs:	<http://www.w3.org/2000/01/rdf-schema#>
+        PREFIX rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+        CONSTRUCT { ?title rdf:type	schema:Book ;
+        rdfs:label ?label . }
+        WHERE {  OPTIONAL {?title rdf:type	schema:Book .}
+        OPTIONAL { ?title rdfs:label ?label . }}
+        """.
+
+
+
+
+
+
+

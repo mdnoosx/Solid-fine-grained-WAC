@@ -1,0 +1,14 @@
+@prefix : <#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix res: <http://dbpedia.org/resource/>.
+@prefix schem: <http://schema.org/>.
+@prefix pro: <http://dbpedia.org/property/>.
+@prefix rd: <http://www.w3.org/2000/01/rdf-schema#>.
+
+res:The_Hobbit a schem:Book; pro:country "United Kingdom"^^rdf:langString.
+
+res:The_Lord_of_the_Rings
+    a schem:Book;
+    pro:country "UK"^^rdf:langString;
+    pro:precededBy res:The_Hobbit;
+    rd:label "In de ban van de ring"@nl, "The Lord of the Rings"@en.

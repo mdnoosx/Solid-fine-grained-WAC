@@ -1,0 +1,69 @@
+@prefix : <#>.
+@prefix n1: <http://www.w3.org/ns/auth/acl#>.
+@prefix s: <./>.
+@prefix c: </profile/card#>.
+@prefix n2: <http://xmlns.com/foaf/0.1/>.
+@prefix test: <https://raw.githubusercontent.com/mdnoosx/refinedACL/main/refinedacl#>.
+
+
+:owner
+    n1:accessTo s:;
+    n1:agent c:me;
+    n1:default s:;
+    n1:mode n1:Control, n1:Read, n1:Write.
+
+:public n1:accessTo s:;
+    n1:agentClass n2:Agent;
+    n1:default s:;
+    n1:mode n1:Read.
+
+:sampleContainer a n1:Authorization;
+#    test:stopInheritance s: ;
+    test:appliesTo s: ;
+    n1:mode n1:Read;
+    test:inherit s: ;
+ #   n1:agentClass n2:Agent;
+     n1:agent <https://bob.localhost:8443/profile/card#me>;
+    test:hasAccessQuery """
+    PREFIX dbp:	<http://dbpedia.org/property/>
+    PREFIX rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    CONSTRUCT { ?title rdf:type	schema:Book ;
+    dbp:country ?country . }
+    WHERE {?title rdf:type	schema:Book ;
+    dbp:country ?country . }
+    """.
+
+:sampleContainerWriteUser a n1:Authorization;
+#    test:stopInheritance s: ;
+    test:appliesTo s: ;
+    n1:mode n1:Write;
+    test:inherit s: ;
+#    n1:agentClass n2:Agent;
+    n1:agent <https://bob.localhost:8443/profile/card#me>;
+    test:hasAccessQuery """
+    PREFIX dbp:	<http://dbpedia.org/property/>
+    PREFIX rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    CONSTRUCT { ?title rdf:type	schema:Book ;
+    dbp:country ?country ;
+    dbp:pages ?p . }
+    WHERE { OPTIONAL { ?title rdf:type	schema:Book .}
+    OPTIONAL { ?title dbp:country ?country . }
+    OPTIONAL { ?title dbp:pages ?p .}  }
+    """.
+
+:sampleContainerWriteOrigin a n1:Authorization;
+#    test:stopInheritance s: ;
+    test:appliesTo s: ;
+    n1:mode n1:Write;
+    test:inherit s: ;
+    n1:origin <https://originrefined.local>;
+    test:hasAccessQuery """
+    PREFIX dbp:	<http://dbpedia.org/property/>
+    PREFIX rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    CONSTRUCT { ?title rdf:type	schema:Book ;
+    dbp:country ?country ;
+    dbp:publisher ?p . }
+    WHERE { OPTIONAL {?title rdf:type	schema:Book .}
+     OPTIONAL { ?title dbp:country ?country .}
+     OPTIONAL { ?title dbp:publisher ?p .}  }
+    """.
