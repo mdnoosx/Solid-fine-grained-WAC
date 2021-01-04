@@ -10,7 +10,7 @@ No FGAC support for HTTP COPY is implemented.
 Groups and trusted origin definitions in the owner profile are not supported as well.
 
 The RDFLib library was adapted in order to support fine-grained access for HTTP PATCH (only in the format 
-’application/sparql-update’). This requires running 'npm run prepublishOnly' once.
+’application/sparql-update’). This requires running 'npm run prepublishOnly' once in the altrdflib file.
 
 N3 store is used for executing the access queries. This requires 'PREFIX' be used instead of 
 '@prefic' and a space is required before the dot at end of triple.
