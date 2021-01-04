@@ -18,4 +18,7 @@ N3 store is used for executing the access queries. This requires 'PREFIX' be use
 For HTTP POST, there is a problem loading the data from the request stream in the N3 store 
 when files contain more than 2000 triples. 
 
-(run 'bin/solid-test start' to start server)
+Timing code is still present. This writes AC execution times to \times\times.json. 
+(Writing of times to files can be undone in ldp-middleware.js.)
+
+(run 'bin/solid-test start' in node-solid-server to start server)
