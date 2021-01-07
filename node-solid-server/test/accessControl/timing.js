@@ -296,7 +296,7 @@ analyseFile('../../times/times20BSBMandann.json')
 analyseFile('../../times/times50BSBMandann.json')
 analyseFile('../../times/times100BSBMandann.json')
 analyseFile('../../times/times200BSBMandann.json')
-//analyseFile('../../times/times10BSBMandann.json')
+analyseFile('../../times/times500BSBMandann.json')
 
 
 
