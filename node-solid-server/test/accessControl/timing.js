@@ -80,11 +80,11 @@ function analyseFile(path) {
 
 
     console.log("Total response time: "+totavg)
-    console.log("Average for allow: " + h1avg + ", allow-refined: " + h2avg+", handler:"+ h3avg)
+    console.log("Average for allow (WAC): " + h1avg + ", allow-refined: " + h2avg+", handler:"+ h3avg)
    // console.log("Average for adding headerpermissions: "+headeravg)
     console.log("Median for allow: " + median(h1) + ", allow-refined: " + median(h2))
-    console.log("Handler med: "+median(h3)+", handler AC: "+median(handlerAC)+", handler without AC: "+median(handlerNonAC))
-    console.log("FGAC TOTAL AVG: " + refinedavg+", original response time: " + originalavg )
+    console.log("Median: HTTP handler: "+median(h3)+", HTTP handler AC: "+median(handlerAC)+", HTTP handler without AC: "+median(handlerNonAC))
+    console.log("FGAC TOTAL AVG: " + refinedavg)
   //  console.log("FGAC TOTAL med: " + refinedmed+", orginal response time: " + originalmed )
     //console.log("Original avg time required to handle request: " + originalavg + ", var: " + originalvar + ", additional time required: " + refinedavg + ", var: " + refinedvar)
     //console.log("Original med time required to handle request: " + originalmed + ", additional med time required: " + refinedmed)
