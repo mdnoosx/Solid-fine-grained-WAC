@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/The_Lord_of_the_Rings> a <http://schema.org/Book>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "In de ban van de ring"@nl, "The Lord of the Rings"@en;
+    <http://dbpedia.org/property/fakeCountry> "United Kingdom" .
+<http://dbpedia.org/resource/The_Hobbit> a <http://schema.org/Book>;
+    <http://www.w3.org/2000/01/rdf-schema#label> "The Hobbit"@en, "De Hobbit"@nl;
+    <http://dbpedia.org/property/fakeCountry> "United Kingdom" .

@@ -1,0 +1,31 @@
+PREFIX : <#>
+PREFIX o: <http://www.w3.org/ns/oa#>
+PREFIX ex: <http://example.com/>
+PREFIX XML: <http://www.w3.org/2001/XMLSchema#>
+PREFIX terms: <http://purl.org/dc/terms/>
+PREFIX c: <whitemeercat402/card#>
+PREFIX rd: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX c0: <bigfrog374/card#>
+
+:annotation0
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "6"^^XML:int;
+    terms:created "Fri, 18 Dec 2020 21:40:12 GMT";
+    terms:creator c:me;
+    rd:label "Aubree Slawa created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.JakobRobinson.com/photo.png>;
+    o:motivatedBy o:commenting .
+:annotation1
+    a o:Annotation;
+    ex:isHidden "false";
+    ex:priority "8"^^XML:int;
+    terms:created "Fri, 18 Dec 2020 21:40:12 GMT";
+    terms:creator c0:me;
+    rd:label "Elias Joki created an annotation"@en;
+    o:hasBody "Comment text goes here"@en, "De commentaar komt hier"@nl;
+    o:hasTarget <https://www.IdunnEide.com/photo.png>;
+    o:motivatedBy o:commenting .
+
+

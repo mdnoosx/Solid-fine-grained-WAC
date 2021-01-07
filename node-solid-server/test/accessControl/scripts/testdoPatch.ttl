@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix o: <http://www.w3.org/ns/oa#> .
+@prefix rd: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix terms: <http://purl.org/dc/terms/> .
+@prefix ex: <http://example.com/> .
+@prefix XML: <http://www.w3.org/2001/XMLSchema#> .
+@prefix : <#> .
+
+
+
+
+
+DELETE { ?a a o:Annotation .}
+
+WHERE  { ?a a o:Annotation .}
