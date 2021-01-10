@@ -18,7 +18,7 @@
     acl:mode
         acl:Read, acl:Write, acl:Control.
 
-# Private, no public access modes
+# Private, no public access modes should exist
 # Needed to test origins with browser
 :Read
     a acl:Authorization;
